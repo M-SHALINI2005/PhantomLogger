@@ -1,9 +1,6 @@
 # PhantomLogger
 DFIR project
 
-# PhantomLogger
-DFIR project
-
 **PhantomLogger** is a powerful Digital Forensics & Incident Response (DFIR) web application that analyzes system log files to detect suspicious activity such as unauthorized access, malware execution, and log tampering. It uses a combination of pattern matching and AI explanations to help security analysts quickly understand potential threats.
 
 ---
