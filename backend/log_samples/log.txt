@@ -1,0 +1,8 @@
+[2025-07-01 10:05:21] System startup successful.
+[2025-07-01 10:07:45] User login: yashini_admin
+[2025-07-01 10:09:03] Warning: unauthorized access attempt detected
+[2025-07-01 10:12:30] Malware execution: suspicious.exe triggered
+[2025-07-01 10:15:10] Scheduled task completed: backup_script.sh
+[2025-07-01 10:18:22] Log file cleared by unknown process
+[2025-07-01 10:20:44] Network connection established with 192.168.1.10
+[2025-07-01 10:25:17] Normal shutdown requested by user
